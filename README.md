@@ -4,6 +4,11 @@ Hack facebook ba paswoor dilkhoah
 
 telegram chane  https://t.me/sultani1122
 
+
+youtube
+
+https://www.youtube.com/channel/UCKX5IrKQsIhejUw8ePpvJ-Q
+
 command
 
 pkg install git
@@ -18,7 +23,8 @@ git clone https://github.com/Elyasbaloch/elyas
 cd elyas
 
 ls
-python elyas_baloch.py
+
+python2 elyas_baloch.py
 
 
 username elyas
